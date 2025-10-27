@@ -79,8 +79,8 @@ Automatically act on your data and communicate using third-party services like T
 #include <WiFi.h>
 #include "DHT.h"
 
-char ssid[]="Sona's A35";
-char pass[]="Sona@1011";
+char ssid[]="3SHA";
+char pass[]="***";
 
 const int t=25;
 WiFiClient client;
