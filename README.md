@@ -1,6 +1,8 @@
 # EXP-3: Uploading temperature sensor data in Thing Speak cloud
+
 ## NAME:R TRISHA
 ## REGISTER NUMBER: 212224100061
+
 # AIM:
 To monitor the temperature sensor data in the Thing speak using an ESP32 controller.
 
@@ -84,7 +86,7 @@ const int t=25;
 WiFiClient client;
 DHT dht(25, DHT11);
 
-unsigned long myChannelField = 2759181;
+unsigned long myChannelField = 3091113;
 const int ChannelField1 = 1 ; 
 const int ChannelField2 = 2 ;
 const char *myWriteAPIKey="E9U6UMA0U1WYL76I";
@@ -131,9 +133,10 @@ void loop()
 <img width="1261" height="387" alt="image" src="https://github.com/user-attachments/assets/f2eeb4d1-23fc-4433-8963-0593b8e59c3d" />
 
 # OUTPUT:
+<img width="1280" height="737" alt="image" src="https://github.com/user-attachments/assets/c27ccdd0-b796-4595-8a2e-f00301499666" />
+<img width="269" height="250" alt="image" src="https://github.com/user-attachments/assets/deaea90f-ebbb-4430-b6fb-0ec7cc8046d6" />
 
 # RESULT:
 
-Thus the temperature sensor values are updated in the Thing speak using ESP32 controller.
 Thus the temperature sensor values are updated in the Thing speak using ESP32 controller.
 
