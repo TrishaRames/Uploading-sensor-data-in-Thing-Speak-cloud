@@ -130,7 +130,8 @@ void loop()
 }
 ```
 # CIRCUIT DIAGRAM:
-<img width="1261" height="387" alt="image" src="https://github.com/user-attachments/assets/f2eeb4d1-23fc-4433-8963-0593b8e59c3d" />
+<img width="1252" height="743" alt="image" src="https://github.com/user-attachments/assets/fa30fcef-aad1-4c9c-a97e-9298030636fa" />
+
 
 # OUTPUT:
 <img width="1280" height="737" alt="image" src="https://github.com/user-attachments/assets/c27ccdd0-b796-4595-8a2e-f00301499666" />
